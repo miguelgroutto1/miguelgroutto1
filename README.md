@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/miguel-rocha-43505128b/">
+  <a href="https://www.linkedin.com/in/miguel-rocha-43505128b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   
