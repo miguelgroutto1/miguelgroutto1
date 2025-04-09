@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/miguel-rocha-43505128b/" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-rocha-43505128b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   
@@ -18,14 +18,14 @@
 
 ###
 
-<p align="left">Sou o Miguel Groutto Rocha tenho 17 anos e um desenvolvedor Full-Stack. Me localizo em Bauru, SP.<br><br>
-  - 🔭 Cursando Tec em Desenvolvimento de Sistema na Etec Rodrigues de Abreu<br>
-  - 📚 Atualmente atuando como desenvolvedor Full Stack (HTML, CSS, JavaScript, React, Node.js, MySQL)<br>
+<p align="left">Me chamo Miguel Groutto Rocha, tenho 17 anos e sou de Bauru, SP.</p>
+  - 🔭 Cursando Tec. em Desenvolvimento de Sistema na Etec Rodrigues de Abreu integrado ao Ensino Médio 3/3 <br>
+  - 📚 Atualmente estudando para no futuro atuar como desenvolvedor Full Stack (HTML, CSS, JavaScript, React, Node.js, MySQL)<br>
   - ⚡ No tempo livre, gosto de criar projetos web e pensar em ideias criativas que impressionem </p>
   
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas que uso:</h3>
 
 ###
 
@@ -42,3 +42,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
