@@ -19,7 +19,7 @@
 ###
 
 <p align="left">Me chamo Miguel Groutto Rocha, tenho 17 anos e sou de Bauru, SP.</p>
-  - 🔭 Cursando Tec. em Desenvolvimento de Sistema na Etec Rodrigues de Abreu integrado ao Ensino Médio 3/3 <br>
+  - 🔭 Cursando Tec. em Desenvolvimento de Sistemas na Etec Rodrigues de Abreu integrado ao Ensino Médio 3/3 <br>
   - 📚 Atualmente estudando para no futuro atuar como desenvolvedor Full Stack (HTML, CSS, JavaScript, React, Node.js, MySQL)<br>
   - ⚡ No tempo livre, gosto de criar projetos web e pensar em ideias criativas que impressionem </p>
   
@@ -42,9 +42,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
