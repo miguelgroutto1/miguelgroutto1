@@ -1,4 +1,11 @@
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Miguel+Groutto+Rocha;Tenho+17+anos+e+sou+de+Bauru-SP;Cursando+Desenvolvimento+de+Sistemas+3/3;Seja+bem-vindo+ao+meu+GitHub!+:%29">
+</p>
+
+
+<!--<div align="center">
   <a href="https://www.linkedin.com/in/miguelgrouttorocha/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -11,6 +18,7 @@
 ###
 
 <h1 align="center">Ei, Chega ai... 👋</h1>
+-->
 
 ###
 
@@ -42,3 +50,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
