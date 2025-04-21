@@ -28,7 +28,7 @@
   
 ###
 
-<h3> Front End</h3>
+<h3>Front End</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
@@ -38,7 +38,7 @@
 </div>
 
 
-<h3 align="left">⚙ Back End</h3>
+<h3 align="left">Back End</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" />
