@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A17755&height=120&section=header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Miguel+Groutto+Rocha;Tenho+17+anos+e+sou+de+Bauru-SP;Cursando+Desenvolvimento+de+Sistemas+3/3;Seja+bem-vindo+ao+meu+GitHub!+:%29">
@@ -45,4 +45,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A17755&height=120&section=footer"/>
