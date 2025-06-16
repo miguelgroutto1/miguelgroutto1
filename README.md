@@ -1,48 +1,65 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+![banner)](/banner.png)<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Miguel+Groutto+Rocha;Tenho+17+anos+e+sou+de+Bauru-SP;Cursando+Desenvolvimento+de+Sistemas+3/3;Seja+bem-vindo+ao+meu+GitHub!+:%29">
-</p>
+# >_ Miguel Groutto Rocha
+**Estudando Full-stack** 
 
-<!--<div align="center">
-  <a href="https://www.linkedin.com/in/miguelgrouttorocha/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
+Back-end Developer com foco em Python, experiência prática com Django e FastAPI, e atuação full stack júnior em projetos que integram APIs robustas, interfaces funcionais e experiência do usuário. Atuo em squads ágeis no Brasil e na Europa, com entregas alinhadas a boas práticas de engenharia de software e foco em valor de negócio.
+
+Tenho background em UX e Product Ownership, o que me proporciona uma visão 360º entre código, produto e pessoas. Desenvolvo soluções com banco de dados relacionais (PostgreSQL, MySQL), automações em Python e análise de dados com Pandas, NumPy e Matplotlib.
+
+Atualmente, estou em constante evolução técnica — participando do desafio #100DaysOfCode  
+
+---
+
+### 🌐 Connect with Me  
+
+<div> 
+  <a href="https://www.linkedin.com/in/fhaelmarinho" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%232E87FB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+     </a> 
+  <a href="https://www.youtube.com/@codewithfhael" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  
-  <a href="https://www.instagram.com/miguelgroutto_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
+  <a href="mailto:fhaelmarinho@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-</div>
--->
-
-###
-
-<h3 align="left">Sobre mim</h3>
-
-###
-
-<p align="left">Me chamo Miguel Groutto Rocha, tenho 17 anos e sou de Bauru, SP.</p>
-  -  Cursando Tec. em Desenvolvimento de Sistemas na Etec Rodrigues de Abreu integrado ao Ensino Médio 3/3 <br>
-  -  Atualmente estudando para no futuro atuar como desenvolvedor Full Stack (HTML, CSS, JavaScript, React, Node.js, MySQL)<br>
-  -  No tempo livre, gosto de criar projetos web e pensar em ideias criativas que impressionem </p>
+  <a href="https://www.calendly.com/fhaelmarinhodev/consultoria" target="_blank">
+    <img src="https://img.shields.io/badge/Calendly-126fa5?style=for-the-badge&logo=calendly&logoColor=white" alt="calendly">
   
-###
+</div>  
 
-<h3>Front End</h3>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
-</div>
+### 🛠️ Languages and Technologies  
 
+<div style="display: inline_block">
+   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-8e00cd?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-8e00cd?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-8e00cd?style=for-the-badge&logo=javascript&logoColor=white">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-8e00cd?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-8e00cd?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Git"  src="https://img.shields.io/badge/GIT-8e00cd?style=for-the-badge&logo=git&logoColor=white"> 
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-8e00cd?style=for-the-badge&logo=linux&logoColor=white""> 
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-8e00cd?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-8e00cd.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+</div>  
 
-<h3 align="left">Back End</h3>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
-</div>
+### 📊 GitHub Statistics  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=fhaelmarinho&show_icons=true&theme=midnight-purple&include_all_commits=false"
+    />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhaelmarinho&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" height="200" align="center"> <br>  
+  
+</div>  
+---
+
+Made with by **Miguel Rocha**  
