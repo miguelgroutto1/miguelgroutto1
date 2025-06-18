@@ -1,48 +1,53 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+# >_ Miguel Groutto  
+Estudante de Full-Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Miguel+Groutto+Rocha;Tenho+17+anos+e+sou+de+Bauru-SP;Cursando+Desenvolvimento+de+Sistemas+3/3;Seja+bem-vindo+ao+meu+GitHub!+:%29">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=3E80B7&width=300&lines=Welcome+to+my+Github!+" align="center">
 
-<!--<div align="center">
-  <a href="https://www.linkedin.com/in/miguelgrouttorocha/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  
-  <a href="https://www.instagram.com/miguelgroutto_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-</div>
--->
+---
 
-###
+### 🎯 Objetivo Profissional
 
-<h3 align="left">Sobre mim</h3>
+Busco uma oportunidade que me permita aplicar meus conhecimentos em Desenvolvimento de Sistemas e adquirir experiência prática no mercado de trabalho, enquanto continuo meus estudos. Estou comprometido em contribuir de forma proativa, aprender rapidamente novas tecnologias e agregar valor às equipes em que atuar.
 
-###
+---
 
-<p align="left">Me chamo Miguel Groutto Rocha, tenho 17 anos e sou de Bauru, SP.</p>
-  -  Cursando Tec. em Desenvolvimento de Sistemas na Etec Rodrigues de Abreu integrado ao Ensino Médio 3/3 <br>
-  -  Atualmente estudando para no futuro atuar como desenvolvedor Full Stack (HTML, CSS, JavaScript, React, Node.js, MySQL)<br>
-  -  No tempo livre, gosto de criar projetos web e pensar em ideias criativas que impressionem </p>
-  
-###
+### 🎓 Formação Acadêmica
 
-<h3>Front End</h3>
+- Ensino Médio com Curso Técnico em Desenvolvimento de Sistemas – Instituto Luiz Zuiani / ETEC Rodrigues de Abreu, Bauru-SP (2024 – 2026) – Cursando 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
+---
+
+### 🛠️ Competências Técnicas
+
+<div style="display: inline_block">
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-3E80B7?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-3E80B7?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3E80B7?style=for-the-badge&logo=javascript&logoColor=white">
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-3E80B7?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-3E80B7?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-3E80B7?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Git"  src="https://img.shields.io/badge/GIT-3E80B7?style=for-the-badge&logo=git&logoColor=white"> 
+<!--   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-3E80B7?style=for-the-badge&logo=github&logoColor=white"> -->
+  <img align="center" alt="XAMPP" src="https://img.shields.io/badge/XAMPP-3E80B7?style=for-the-badge&logo=xampp&logoColor=white">
 </div>
 
+---
 
-<h3 align="left">Back End</h3>
+### 💡 Habilidades Pessoais
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
-</div>
+- Boa comunicação e clareza na apresentação de projetos
+- Proatividade em projetos pessoais e acadêmicos
+- Organização e gestão de prazos e atividades
+- Atenção aos detalhes no desenvolvimento de código
+- Facilidade para aprender novas linguagens e ferramentas
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+---
+
+### 🌎 Idiomas
+
+- Inglês: Básico  
+- Espanhol: Intermediário
+
+---
+
+Made with 💙 by Miguel Groutto
