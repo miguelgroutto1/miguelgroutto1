@@ -1,7 +1,7 @@
 # >_ Miguel Groutto  
 Estudante de Full-Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=3E80B7&width=300&lines=Welcome+to+my+Github!+" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=3E80B7&width=600&lines=Seja+bem+vindo(a)+ao+meu+Github!+" align="center">
 
 ---
 
@@ -13,7 +13,7 @@ Busco uma oportunidade que me permita aplicar meus conhecimentos em Desenvolvime
 
 ### 🎓 Formação Acadêmica
 
-- Ensino Médio com Curso Técnico em Desenvolvimento de Sistemas – Instituto Luiz Zuiani / ETEC Rodrigues de Abreu, Bauru-SP (2024 – 2026) – Cursando 
+- Ensino Médio com Curso Técnico em Desenvolvimento de Sistemas – Instituto Luiz Zuiani / ETEC Rodrigues de Abreu, Bauru-SP (2024 – 2025) – Cursando 
 
 ---
 
@@ -24,11 +24,14 @@ Busco uma oportunidade que me permita aplicar meus conhecimentos em Desenvolvime
   <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-3E80B7?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3E80B7?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-3E80B7?style=for-the-badge&logo=php&logoColor=white">
+  
+  <img align="center" alt="Git"  src="https://img.shields.io/badge/GIT-3E80B7?style=for-the-badge&logo=git&logoColor=white"> 
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-3E80B7?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-3E80B7?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Git"  src="https://img.shields.io/badge/GIT-3E80B7?style=for-the-badge&logo=git&logoColor=white"> 
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-3E80B7?style=for-the-badge&logo=react&logoColor=white">
+
+<!--   <img align="center" alt="XAMPP" src="https://img.shields.io/badge/XAMPP-3E80B7?style=for-the-badge&logo=xampp&logoColor=white"> -->
 <!--   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-3E80B7?style=for-the-badge&logo=github&logoColor=white"> -->
-  <img align="center" alt="XAMPP" src="https://img.shields.io/badge/XAMPP-3E80B7?style=for-the-badge&logo=xampp&logoColor=white">
 </div>
 
 ---
